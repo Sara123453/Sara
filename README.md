@@ -1,7 +1,7 @@
 
 git clone https://github.com/Sara123453/Sara
 
-cd sara
+cd Sara
 
 apt-get install wget
 
